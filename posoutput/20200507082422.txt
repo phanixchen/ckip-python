@@ -1,0 +1,3 @@
+小鈴(Nb)　、(PAUSECATEGORY)　風太(Nb)　、(PAUSECATEGORY)　美穗(Nb)　和(Caa)　另外(Da)　一(Neu)　位(Nf)　同學(Na)　一起(D)　走(VA)　在(P)　校園(Nc)　裡(Ncd)　。(PERIODCATEGORY)　風太(Na)　遞給(VD)　小鈴(Nb)　一(Neu)　本(Nf)　書(Na)　和(Caa)　一(Neu)　顆(Nf)　棒球(Na)　。(PERIODCATEGORY)　
+小乃(Nb)　已經(D)　穿上(VC)　牛仔褲(Na)　，(COMMACATEGORY)　走到(VCL)　鏡子(Na)　前(Ncd)　套上(VC)　上衣(Na)　。(PERIODCATEGORY)　
+%%EoF%%
